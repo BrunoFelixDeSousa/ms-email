@@ -1,2 +1,7 @@
-package io.github.brunofelixdesousa.email.enums;public enum StatusEmail {
+package io.github.brunofelixdesousa.email.enums;
+
+public enum StatusEmail {
+
+    SENT,
+    ERROR;
 }
